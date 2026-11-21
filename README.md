@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="dispatch-route-optimizer" width="100%"></p>
+
 # dispatch-route-optimizer
 
 Puts a technician's job stops in a driving order that cuts travel, and shows how many kilometres and minutes the new order saves. Standard library only.
