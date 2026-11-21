@@ -2,6 +2,8 @@
 
 # dispatch-route-optimizer
 
+[![CI](https://github.com/yassine2med/dispatch-route-optimizer/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/dispatch-route-optimizer/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 Puts a technician's job stops in a driving order that cuts travel, and shows how many kilometres and minutes the new order saves. Standard library only.
 
 ![Screenshot](docs/screenshot.png)
